@@ -1,4 +1,4 @@
-# ![logo](static/assets/logo-dark.png) Yonisfy
+## ![logo](static/assets/logo-dark.png) Yonisfy
 
 ---
 
